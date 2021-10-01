@@ -1,0 +1,4 @@
+In this code i applied the parallel program but it keeps going forever. Even for a single file it does
+add successfully the lists with the files and the dictionary with the words we are looking for, but it seems
+that something keeps the program to run forever. If i change the placement of the locks or change the parallelization
+i get a lot of errors.
